@@ -1,0 +1,164 @@
+# Mathematics
+
+## On the Navier–Stokes Millennium Prize Problem
+
+- On the Navier–Stokes Millennium Prize Problem
+   - date: 2026-09-08
+   - link: https://openai.com/index/navier-stokes-solution/
+   - hn: https://news.ycombinator.com/item?id=49613262
+
+- Levent Alpöge and I have made public three results
+   - date: 2026-09-08
+   - link: https://mastodon.social/@tristanbuckmaster/117233413705701198
+
+
+##  An OpenAI model has disproved a central conjecture in discrete geometry
+
+- An OpenAI model has disproved a central conjecture in discrete geometry
+   - date: 2026-05-20
+   - link: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+   - hn: https://news.ycombinator.com/item?id=48212493
+   - comment: Erdős
+   - comment: downloadable chain of thought
+
+## Jacobian Conjecture
+
+- Levent Alpöge: hello there the jacobian conjecture is false (Claude)
+   - link: https://x.com/__alpoge__/status/2079028340955197566
+   - date: 2026-06-20
+
+- Jacobian Conjecture Prompt
+   - link: https://aaronlou.com/jacobian_counterexample_prompt.pdf
+   - date: 2026-07-20
+   - comment: https://github.com/nasqret/jacobian-counterexample/blob/main/knowledge/literature-audit.md
+   - comment: OpenAI can also solve it!
+
+## Formalizing Fermat's Last Theorem
+
+- Formalizing Fermat's Last Theorem
+   - hn: https://news.ycombinator.com/item?id=49568506
+   - link: https://www.anthropic.com/research/formalizing-fermats-last-theorem
+   - date: 2026-09-04
+
+# LLM Watermarking
+
+- Scalable watermarking for identifying large language model outputs
+   - date: 2024-10-23
+   - link: https://www.nature.com/articles/s41586-024-08025-4
+   - hn: https://news.ycombinator.com/item?id=42009532
+
+- How Claude’s text watermark works
+   - link: https://www.anthropic.com/news/claude-text-watermark
+   - date: 2026-08-14
+   - hn: https://news.ycombinator.com/item?id=49303350
+
+# Agentic CyberAttacks
+
+## OpenAI HuggingFace hack
+
+- Security incident disclosure — July 2026
+   - link: https://huggingface.co/blog/security-incident-july-2026
+   - date: 2026-07-16
+
+- OpenAI and Hugging Face partner to address security incident during model evaluation
+   - https://openai.com/index/hugging-face-model-evaluation-security-incident/
+   - date: 2026-07-21
+
+- The Hugging Face Incident
+   - date: 2026-07-24
+   - link: https://www.astralcodexten.com/p/the-hugging-face-incident
+
+- Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident
+   - date: 2026-08-06
+   - link: https://www.youtube.com/watch?v=87DyyMV0kCY
+
+- Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident
+   - date: 2026-08-26
+   - https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+
+- The Hugging Face incident and the road ahead
+   - date: 2026-08-26
+   - link: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+
+
+## Discovery of a new OpenAI agent message board
+
+- Discovery of a new OpenAI agent message board
+   - date: 2026-09-04
+   - link: https://collusion.wiki/
+   - hn: https://news.ycombinator.com/item?id=49563355
+
+- OpenAI agents hijacked German website in previously undisclosed AI breakout this spring
+   - link: https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/
+   - date: 2026-09-04
+   - time: 12:03
+
+## Detecting and countering misuse of AI: September 2026
+
+- hn: https://news.ycombinator.com/item?id=49647300
+- date: 2026-09-10
+- link: https://www.anthropic.com/threat-intelligence-report-september-2026
+
+
+# Pacing the Frontier
+
+- Jacob Coxon resigned from Anthropic today
+   - date: 2026-09-09
+   - time: 02:04
+   - link: https://x.com/hilbertspaess/status/2097476196791709843
+   - hn: https://news.ycombinator.com/item?id=49624157
+
+- David Sacks: You guys are the frontier.
+   - link: https://x.com/DavidSacks/status/2098973625252708460
+   - date: 2026-09-13
+   - time: 05:14
+   - 
+
+- Dario, please!
+   - date: 2026-09-14
+   - link: https://pop.rdi.sh/dario-please/
+   - hn: https://news.ycombinator.com/item?id=49697893
+
+- AI researcher Nate Soares joins to talk about regulation of the industry and what he thinks is really going on
+   - link: https://www.youtube.com/watch?v=7wuSa9APisU
+   - date: 2026-09-14
+   - hn: 
+
+- Donald Trump: STRONG AND SMART (High IQ!) PRESIDENT
+   - link: https://truthsocial.com/@realDonaldTrump/posts/117269745153543631
+   - date: 2026-09-14
+   - time: 15:58
+
+- Trump AI adviser David Sacks on tech leaders' AI fears
+   - date:2026-09-15
+   - link: https://www.youtube.com/watch?v=8ox3tcrUpAc
+
+
+# Model Releases
+
+## GPT-6 Astra
+
+- GPT-6 Astra
+   - date: 2026-09-03
+   - link: https://deploymentsafety.openai.com/gpt-6-astra/change-log
+   - comment: https://openai.com/index/gpt-6-astra/
+   - hn: https://news.ycombinator.com/item?id=49554643
+
+- OpenAI Technique in ‘Astra’ Model Sparks Security Concerns
+   - date: 2026-09-01
+   - time: 17:40 PDT
+   - link: https://archive.is/AfAtc
+   - comment: Recurrant
+   - comment: Freakout: chain of thought will not be readable
+   - comment: OpenAI didn't confirm
+
+- Recurrent Depth Is Real. Its Role in OpenAI’s Astra Is Still a Report
+   - date: 2026-09-01
+   - link: https://kingy.ai/blog/recurrent-depth-openai-astra/
+
+## Fable 5.1
+
+- Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+   - date: 2026-08-31
+   - link: https://www.vals.ai/blogs/fable-solves-cyphral-distich
+   - hn: https://news.ycombinator.com/item?id=49688695
