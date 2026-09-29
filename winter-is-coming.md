@@ -119,6 +119,28 @@
 - date: 2026-09-10
 - link: https://www.anthropic.com/threat-intelligence-report-september-2026
 
+## Australian Government AI-Agent Cyber Incident - September 2026
+
+- Press Conference New York
+   - date: 2026-09-24
+   - link: https://www.pm.gov.au/media/press-conference-new-york
+
+- OpenAI agent hacked Australian government website, PM says
+   - date: 2026-09-24
+   - link: https://www.bbc.com/news/live/cvgl73pxgndwt
+   - hn: https://news.ycombinator.com/item?id=49825580
+
+- Australia launches investigation after OpenAI agent hacked healthcare database
+   - date: 2026-09-24
+   - link: https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman
+
+- OpenAI says dozens affected by rogue agents amid new detail about Australian incidents
+   - date: 2026-09-26
+   - link: https://www.abc.net.au/news/2026-09-26/openai-review-rogue-agents-australia-medicare-hack/107199074
+
+- Revealed: the five-paragraph email OpenAI used to inform Australia about agent attack
+   - date: 2026-09-29
+   - link: https://theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites
 
 # Pacing the Frontier
 
