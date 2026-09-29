@@ -1,5 +1,23 @@
 # Mathematics
 
+## Mathematics and AI
+
+- Leiden Declaration on Artificial Intelligence and Mathematics
+   - date: 2026-06-02
+   - link: https://leidendeclaration.ai/
+   - hn: https://news.ycombinator.com/item?id=48380670
+   - comment: An initiative calling on mathematicians, institutions, governments, and AI companies to adopt AI in mathematical research transparently and cautiously while preserving human responsibility.
+
+- A Severe Misalignment of AI in Mathematics
+   - date: 2026-09-11
+   - link: https://mathandai.org/
+   - hn: https://news.ycombinator.com/item?id=49662371
+   - comment: Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work
+
+- Mathematics in the age of AI (Terence Tao)
+   - date: 2026-08-17 15:59:47 UTC
+   - link: https://arxiv.org/abs/2608.16753
+
 ## On the Navier–Stokes Millennium Prize Problem
 
 - On the Navier–Stokes Millennium Prize Problem
@@ -10,7 +28,6 @@
 - Levent Alpöge and I have made public three results
    - date: 2026-09-08
    - link: https://mastodon.social/@tristanbuckmaster/117233413705701198
-
 
 ##  An OpenAI model has disproved a central conjecture in discrete geometry
 
