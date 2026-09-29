@@ -80,6 +80,9 @@
    - date: 2026-08-26
    - link: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
 
+- Ajeya Cotra – "This might be the clearest warning shot we ever get" (Dwarkesh Patel)
+   - date: 2026-09-01
+   - link: https://www.youtube.com/watch?v=X50zezLFWWI
 
 ## Discovery of a new OpenAI agent message board
 
@@ -108,11 +111,29 @@
    - link: https://x.com/hilbertspaess/status/2097476196791709843
    - hn: https://news.ycombinator.com/item?id=49624157
 
+- Dario Amodei: We Must Pace the Frontier
+   - link: https://darioamodei.com/post/we-must-pace-the-frontier
+   - date: 2026-09-12
+
+- Dario Amodei: We Must Pace the Frontier: I’ve written a new essay
+   - date: 2026-09-12
+   - time: 16:01
+   - link: https://x.com/DarioAmodei/status/2098773920774074715
+
+- Elon Musk: Dario is right
+   - date: 2026-09-12
+   - time: 17:01
+   - link: https://x.com/elonmusk/status/2098789109980332057
+
+- Sam Altman: I agree with Dario that we need to pace the frontier.
+   - date: 2026-09-12
+   - time: 18:30
+   - link: https://x.com/sama/status/2098811563415150910
+
 - David Sacks: You guys are the frontier.
    - link: https://x.com/DavidSacks/status/2098973625252708460
    - date: 2026-09-13
    - time: 05:14
-   - 
 
 - Dario, please!
    - date: 2026-09-14
@@ -138,12 +159,6 @@
 
 ## GPT-6 Astra
 
-- GPT-6 Astra
-   - date: 2026-09-03
-   - link: https://deploymentsafety.openai.com/gpt-6-astra/change-log
-   - comment: https://openai.com/index/gpt-6-astra/
-   - hn: https://news.ycombinator.com/item?id=49554643
-
 - OpenAI Technique in ‘Astra’ Model Sparks Security Concerns
    - date: 2026-09-01
    - time: 17:40 PDT
@@ -155,6 +170,12 @@
 - Recurrent Depth Is Real. Its Role in OpenAI’s Astra Is Still a Report
    - date: 2026-09-01
    - link: https://kingy.ai/blog/recurrent-depth-openai-astra/
+
+- GPT-6 Astra
+   - date: 2026-09-03
+   - link: https://deploymentsafety.openai.com/gpt-6-astra/change-log
+   - comment: https://openai.com/index/gpt-6-astra/
+   - hn: https://news.ycombinator.com/item?id=49554643
 
 ## Fable 5.1
 
