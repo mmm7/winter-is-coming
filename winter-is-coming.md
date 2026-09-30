@@ -222,3 +222,19 @@
    - date: 2026-08-31
    - link: https://www.vals.ai/blogs/fable-solves-cyphral-distich
    - hn: https://news.ycombinator.com/item?id=49688695
+
+# Robotics
+
+## Surgery
+
+- Robot performs first realistic surgery without human help
+   - date: 2025-07-15
+   - link: https://malonecenter.jhu.edu/robot-performs-first-realistic-surgery-without-human-help/
+
+- In vivo feasibility study of humanoid robots in surgery
+   - date: 2026-07-08
+   - link: https://nature.com/articles/s41586-026-10796-x
+
+- Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery
+   - date: 2026-07-08
+   - link: https://today.ucsd.edu/story/surgeons-use-teleoperated-humanoid-robots-to-perform-live-surgery-a-world-first
