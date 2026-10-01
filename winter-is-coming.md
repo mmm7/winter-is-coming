@@ -239,6 +239,17 @@
 
 # Alignment Research
 
+## Interpretability
+
+- A Cognitive Theory of Consciousness
+   - date: 1988
+   - link: https://philpapers.org/rec/BAAACT
+
+- A global workspace in language models (Anthropic, J-space)
+   - date: 2026-07-06
+   - https://www.anthropic.com/research/global-workspace
+
+
 ## Anthropic Alignment Tets
 
 - TODO: régen: ha hacker iranyba push-oljuk, akkor minden területen unaligned lesz
