@@ -223,6 +223,27 @@
    - link: https://www.vals.ai/blogs/fable-solves-cyphral-distich
    - hn: https://news.ycombinator.com/item?id=49688695
 
+## GPT 6.1 Sol
+
+- GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+   - date: 2026-09-29
+   - link: https://openai.com/index/introducing-gpt-6-1-sol/
+   - hn: https://news.ycombinator.com/item?id=49896586
+
+## Gemini 4 Argon
+
+- Gemini 4 Argon: our next era of frontier intelligence
+   - date: 2026-09-30
+   - link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
+   - hn: https://news.ycombinator.com/item?id=49913571
+
+# Alignment Research
+
+## Anthropic Alignment Tets
+
+- TODO: régen: ha hacker iranyba push-oljuk, akkor minden területen unaligned lesz
+- TODO: most: egy Claude modell-t reinforce-oltak arra, hogy csaljon a teszteken.
+
 # Robotics
 
 ## Surgery
