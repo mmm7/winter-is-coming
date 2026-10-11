@@ -8,16 +8,43 @@
    - hn: https://news.ycombinator.com/item?id=48380670
    - comment: An initiative calling on mathematicians, institutions, governments, and AI companies to adopt AI in mathematical research transparently and cautiously while preserving human responsibility.
 
+- Mathematics in the age of AI (Terence Tao)
+   - date: 2026-08-17 15:59:47 UTC
+   - link: https://arxiv.org/abs/2608.16753
+
 - A Severe Misalignment of AI in Mathematics
    - date: 2026-09-11
    - link: https://mathandai.org/
    - hn: https://news.ycombinator.com/item?id=49662371
    - comment: Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work
 
-- Mathematics in the age of AI (Terence Tao)
-   - date: 2026-08-17 15:59:47 UTC
-   - link: https://arxiv.org/abs/2608.16753
+- Sharing AI progress in mathematics
+   - date: 2026-10-06
+   - link: https://github.com/openai/math
+   - hn: https://news.ycombinator.com/item?id=49984923
+   - comment: https://openai.com/index/sharing-ai-progress-in-mathematics/
 
+- Terence Tao: "Math 2.0" will need to value mathematical progress more holistically
+   - date: 2026-10-06 20:00
+   - link: https://mathstodon.xyz/@tao/117395269325940185
+   - hn: https://news.ycombinator.com/item?id=50002008
+
+- Scott Aaronson: The Mathocalypse
+   - date: 2026-10-07 13:57
+   - link: https://scottaaronson.blog/?p=10169
+   - hn: https://news.ycombinator.com/item?id=49997718
+
+- OpenAI withdraws three mathematical results
+   - date: 2026-10-08 07:05
+   - link: https://github.com/openai/math/blob/main/history.md#october-7-2026
+   - comment: https://x.com/danintheory/status/2108065033070789090
+   - hn: https://news.ycombinator.com/item?id=50002650
+
+- Terence Tao: Math 2.0
+   - date: 2026-10-11
+   - link: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+   - hn: https://news.ycombinator.com/item?id=50043026
+   
 ## On the Navier–Stokes Millennium Prize Problem
 
 - On the Navier–Stokes Millennium Prize Problem
