@@ -44,7 +44,7 @@
    - date: 2026-10-11
    - link: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
    - hn: https://news.ycombinator.com/item?id=50043026
-   
+
 ## On the Navier–Stokes Millennium Prize Problem
 
 - On the Navier–Stokes Millennium Prize Problem
@@ -281,6 +281,13 @@
 
 - TODO: régen: ha hacker iranyba push-oljuk, akkor minden területen unaligned lesz
 - TODO: most: egy Claude modell-t reinforce-oltak arra, hogy csaljon a teszteken.
+
+# What do People Think?
+
+- Bill Gates: The turbulent AI era is here. The choices we make now are critical.
+   - date: 2026-08-26
+   - link: https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make
+   - hn: https://news.ycombinator.com/item?id=49447057
 
 # Robotics
 
