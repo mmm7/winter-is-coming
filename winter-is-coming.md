@@ -45,6 +45,15 @@
    - link: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
    - hn: https://news.ycombinator.com/item?id=50043026
 
+## Riemann Hypothesis
+
+- Levent Alpöge claims general proof of the Riemann Hypothesis
+   - date: 2026-11-20 14:16
+   - link: https://alpo.ge/remark.pdf
+   - hn: https://news.ycombinator.com/item?id=50574968
+   - comment: https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
+   - comment: https://polymarket.com/event/ai-lab-announces-another-millennium-prize-solution-by
+
 ## On the Navier–Stokes Millennium Prize Problem
 
 - On the Navier–Stokes Millennium Prize Problem
@@ -263,6 +272,23 @@
    - date: 2026-09-30
    - link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
    - hn: https://news.ycombinator.com/item?id=49913571
+
+# News
+
+## Markets
+
+- Anthropic IPO
+   - date: 2026-11-19
+   - link: https://en.wikipedia.org/wiki/Initial_public_offering_of_Anthropic
+   - hn: https://news.ycombinator.com/item?id=50562754
+
+## Hardware
+
+- Jensen Hunag resigns
+   - date: 2026-11-12
+   - link: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
+   - hn: https://news.ycombinator.com/item?id=50467087
+
 
 # Alignment Research
 
