@@ -54,6 +54,16 @@
    - comment: https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/
    - comment: https://polymarket.com/event/ai-lab-announces-another-millennium-prize-solution-by
 
+- Hurried Announcement: Alessandro Masullo GRH
+   - date: 2026-11-20
+   - link: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+   - hn: https://news.ycombinator.com/item?id=50579568
+
+- Lean verification of the Riemann Hypothesis
+   - date: 2026-11-21 13:55
+   - link: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
+   - hn: https://news.ycombinator.com/item?id=50589618
+
 ## On the Navier–Stokes Millennium Prize Problem
 
 - On the Navier–Stokes Millennium Prize Problem
@@ -273,6 +283,27 @@
    - link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/
    - hn: https://news.ycombinator.com/item?id=49913571
 
+## Gemini 4 Carbon
+
+- Gemini 4 Carbon: our next frontier model
+   - date: 2026-10-28
+   - link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+   - hn: https://news.ycombinator.com/item?id=50276792
+
+## Fable 5.2
+
+- Claude Fable 5.2 and Mythos 5.2
+   - date: 2026-11-09
+   - link: https://www.anthropic.com/claude-fable-and-mythos-5-2
+   - https://news.ycombinator.com/item?id=50429068
+
+## GPT 6.2 Astra and Sol
+
+- GPT‑6.2 Astra and Sol
+   - date: 2026-11-17
+   - link: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+   - hn: https://news.ycombinator.com/item?id=50535230
+
 # News
 
 ## Markets
@@ -308,7 +339,37 @@
 - TODO: régen: ha hacker iranyba push-oljuk, akkor minden területen unaligned lesz
 - TODO: most: egy Claude modell-t reinforce-oltak arra, hogy csaljon a teszteken.
 
-# What do People Think?
+# Singularity
+
+## AI-2027
+
+- Daniel Kokotajlo: What 2026 looks like
+   - date: 2021-08-06
+   - link: https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like
+
+- AI Futures Project: AI 2027
+   - date: 2025-04-03
+   - link: https://ai-2027.com/
+   - hn: https://news.ycombinator.com/item?id=43571851
+   - comment: https://www.lesswrong.com/posts/TpSFoqoG2M5MAAesg/ai-2027-what-superintelligence-looks-like-1
+   - comment: https://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models
+
+- METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026
+   - date: 2026-11-05
+   - link: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+   - hn: https://news.ycombinator.com/item?id=50383902
+
+- AI Futures Project: Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen in 2027 After All
+   - date: 2026-11-10
+   - link: https://blog.aifutures.org/p/q35-timelines-update-looks-like-the
+   - comment: If they’re right, that implies an AI-driven acceleration that is 5 months ahead of the AI 2027 scenario.
+
+- AI 2027 is running early: METR’s Anthropic report resets the clock
+   - date: 2026-10-13
+   - link: https://aisocratic.org/news/ai-2027-running-early-metr-anthropic-report
+   - comment: METR: Anthropic is improving models ~2x faster than in 2024–25, mostly thanks to AI-assisted R&D
+
+## What do People Think?
 
 - Bill Gates: The turbulent AI era is here. The choices we make now are critical.
    - date: 2026-08-26
