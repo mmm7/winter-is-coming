@@ -1,5 +1,9 @@
 # Mathematics
 
+- Top 500 open problems in mathematics
+   - comment: ranked by LLM-assessed importance
+   - link: https://www.proofatlas.ai/open-problems/
+
 ## Mathematics and AI
 
 - Leiden Declaration on Artificial Intelligence and Mathematics
@@ -45,7 +49,12 @@
    - link: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
    - hn: https://news.ycombinator.com/item?id=50043026
 
-## Riemann Hypothesis
+- Scott Aaronson: Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening
+   - date: 2026-11-25
+   - link: https://scottaaronson.blog/?p=10379
+   - hn: https://news.ycombinator.com/item?id=50646108
+
+## Riemann Hypothesis (#002 https://www.proofatlas.ai/open-problems/)
 
 - Levent Alpöge claims general proof of the Riemann Hypothesis
    - date: 2026-11-20 14:16
@@ -64,7 +73,7 @@
    - link: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/
    - hn: https://news.ycombinator.com/item?id=50589618
 
-## On the Navier–Stokes Millennium Prize Problem
+## On the Navier–Stokes Millennium Prize Problem (#005 https://www.proofatlas.ai/open-problems/)
 
 - On the Navier–Stokes Millennium Prize Problem
    - date: 2026-09-08
@@ -84,7 +93,7 @@
    - comment: Erdős
    - comment: downloadable chain of thought
 
-## Jacobian Conjecture
+## Jacobian Conjecture (#095 https://www.proofatlas.ai/open-problems/)
 
 - Levent Alpöge: hello there the jacobian conjecture is false (Claude)
    - link: https://x.com/__alpoge__/status/2079028340955197566
@@ -102,6 +111,36 @@
    - hn: https://news.ycombinator.com/item?id=49568506
    - link: https://www.anthropic.com/research/formalizing-fermats-last-theorem
    - date: 2026-09-04
+
+## VP ≠ VNP (#031 https://www.proofatlas.ai/open-problems/)
+
+- Anthropic’s proofs of VP ≠ VNP
+   - date: 2026-11-23 21:04
+   - link: https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf
+   - hn: https://news.ycombinator.com/item?id=50620102
+   - comment: https://github.com/anthropics/formal-math/commit/918c8e2778aee18b0283dc5a33ed39ab3cd63a96
+   - comment: Mon Nov 23 12:04:44 2026 -0800
+
+- OpenAI reveals they solved VP ≠ VNP before Anthropic
+   - date: 2026-11-23
+   - link: https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026
+   - hn: https://news.ycombinator.com/item?id=50632756
+   - comment: https://github.com/openai/math/commit/f5702854040e97fa7675c21ba37a9608f5f92dd3
+   - comment: Date: Mon Nov 23 17:30:37 2026 -0800
+
+## The Matrix Multiplication Exponent (#027 https://www.proofatlas.ai/open-problems/)
+
+- OpenAI: An Upper Bound of 9/4 for the Matrix Multiplication Exponent 
+   - date: 2026-10-06
+   - link: https://github.com/openai/math/tree/main/preprints/Matrix-Multiplication-Nine-Fourths-October-2-2026
+   - hn: https://news.ycombinator.com/item?id=50001740
+   - comment: 0 HN comments
+
+- OpenAI: The matrix multiplication exponent is nine fourths (lower bound)
+   - date: 2026-11-24
+   - link: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/README.md
+   - hn: https://news.ycombinator.com/item?id=50637220
+   - comment: https://scottaaronson.blog/?p=10379
 
 # LLM Watermarking
 
@@ -325,6 +364,12 @@
    - link: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
    - hn: https://news.ycombinator.com/item?id=50611576
    - comment: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+
+- Donald J. Trump: Congratulations to NVIDIA: an absolutely GREAT decision
+   - date: 2026-11-23
+   - link: https://truthsocial.com/@realDonaldTrump/posts/117666141823845971
+   - comment: https://truthsocial.com/@realDonaldTrump/posts/117666313179684854
+   - comment: https://truthsocial.com/@realDonaldTrump/posts/117666713950631493
 
 # Alignment Research
 
