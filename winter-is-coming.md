@@ -320,6 +320,11 @@
    - link: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition
    - hn: https://news.ycombinator.com/item?id=50467087
 
+- Nvidia Reinstates Jensen Huang as CEO
+   - date: 2026-11-23
+   - link: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+   - hn: https://news.ycombinator.com/item?id=50611576
+   - comment: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
 
 # Alignment Research
 
